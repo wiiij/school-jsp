@@ -36,8 +36,8 @@
  ![image](https://user-images.githubusercontent.com/102115231/170406332-bf0435b3-0d71-4a93-ad97-185e68525085.png)  <br>
  이거도 주석에 있는 설명으로 참고해주시면 감사하겠습니다.<br>
  ![image](https://user-images.githubusercontent.com/102115231/170406490-9db1b0dc-2b7a-4c1c-ba77-f02fbb6ac039.png) <br>
-
-  
+<h2>이상 설명을 마치며..</h2>
+  이번에 처음으로 jsp를 공부해보며 저 본인에 의지에 따라 이해가 다른 것을 확실하게 깨닫게 해준 무언가가 된거 같아 좋았습니다.  
 
   
   
