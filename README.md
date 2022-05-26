@@ -1,10 +1,10 @@
 # school-jsp
 이번에는 jsp를 공부한 내용입니다. 
+지역변수와 전역변수의 차이로는 지역변수는 함수 내부에서 선언, 전역변수이고 local과 i는 각각 main 함수와 func 함수 내부에서 선언을 하는 것으로 차이가 납니다. <br>
 ![image](https://user-images.githubusercontent.com/102115231/170399380-f2116cee-0068-4f4c-a60b-973255d65a80.png) <br>
 <b>이거는 첫번째 문제입니다. </b>
 ![1](https://user-images.githubusercontent.com/102115231/170397567-e23edbdc-0b8e-4e71-8faf-390a7ccd134b.JPG) <br>
 저기 제목에 보이는거 처럼 먼저 전역변수와 지역변수를 선언 하고 아래 출력문에 1씩 증가를 시켜서 저렇게 나왔습니다 <br>
-그리고 지역변수와 전역변수의 차이로는 지역변수는 함수 내부에서 선언, 전역변수이고 local과 i는 각각 main 함수와 func 함수 내부에서 선언을 하는 것으로 차이가 납니다. <br>
 <b>2번째 문제입니다. 이번에는 변수와 연산자에 대한 것입니다. </b>
 ![image](https://user-images.githubusercontent.com/102115231/170399579-f3fa2068-674d-430d-aab1-da45de7f30f2.png) <br>
 이번에는 저기 주석으로 간단한 설명을 써놓았기에 참고 부탁드립니다. <br>
